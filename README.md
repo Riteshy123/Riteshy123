@@ -1,33 +1,23 @@
 ### Hi there 👋
-![MasterHead](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)
-<!--
-**Riteshy123/Riteshy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 
 <h1 align="center">Hi 👋, I'm Ritesh Yadav</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
+<p>Thank You for taking the time to view my GitHub Profile 😄. I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them. Building interactive, real-life projects and contributing to the tech community.
+
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshy123&label=Profile%20views&color=0e75b6&style=flat" alt="riteshy123" /> </p>
 
-- 🌱 I’m currently learning **React, React Native, Express, MongoDB, Solidity**
+- 🌱 I’m currently learning ** Data Structure and Algorithm, React, Express, MongoDB**
 
 - 💬 Ask me about **C++, MERN**
 
 - 📫 How to reach me **riteshkumaryadav61054@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+- 💻 Know more about me  <a href="https://riteshy123.github.io/PORTFOLIO/">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
