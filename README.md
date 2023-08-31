@@ -21,8 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritesh-yadav-3628b3209" target="blank"><img align="center" src="![image](https://github.com/Riteshy123/Riteshy123/assets/88195857/1ce955a6-21cc-4977-be10-bd6751a7b39e)
-" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritesh-yadav-3628b3209" target="blank"><img align="center" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon_circle.svg&psig=AOvVaw2ppTGrkFMavISL3luyLwdP&ust=1693597229639000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCni73Th4EDFQAAAAAdAAAAABAE" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20119787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
 <a href="https://instagram.com/riteshyadav6839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/riteshkumaryadav61054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
