@@ -5,26 +5,21 @@
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <p>Thank You for taking the time to view my GitHub Profile 😄. I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them. Building interactive, real-life projects and contributing to the tech community.
 
-</p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshy123&label=Profile%20views&color=0e75b6&style=flat" alt="riteshy123" /> </p>
-
-- 🌱 I’m currently learning ** Data Structure and Algorithm, React, Express, MongoDB**
-
-- 💬 Ask me about **C++, MERN**
+- 💬 Ask me about **React/Nextjs/Expressjs**
 
 - 📫 How to reach me **riteshkumaryadav61054@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-- 💻 Know more about me  <a href="https://riteshy123.github.io/PORTFOLIO/">Portfolio</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ritesh-yadav-3628b3209" target="blank"><img align="center" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon_circle.svg&psig=AOvVaw2ppTGrkFMavISL3luyLwdP&ust=1693597229639000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCni73Th4EDFQAAAAAdAAAAABAE" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20119787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
-<a href="https://instagram.com/riteshyadav6839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/riteshkumaryadav61054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/riteshkumaryadav61054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ritesh-yadav-3628b3209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritesh" height="30" width="40" /></a>
 </p>
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwind,bootstrap,figma,photoshop,javascript,typescript,react,next,mongodb,express&theme=light)](https://skills.thijs.gg) 
+<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mozanyazar&show_icons=true&theme=tokyonight) <br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozanyazar&theme=tokyonight)
 
