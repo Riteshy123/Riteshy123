@@ -4,19 +4,3 @@
 <h1 align="center">Hi 👋, I'm Ritesh Yadav</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <p>Thank You for taking the time to view my GitHub Profile 😄. I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them. Building interactive, real-life projects and contributing to the tech community.
-
-- 💬 Ask me about **React/Nextjs/Expressjs**
-
-- 📫 How to reach me **riteshkumaryadav61054@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ritesh-yadav-3628b3209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ritesh" height="30" width="40" /></a>
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,tailwind,bootstrap,figma,photoshop,javascript,typescript,react,next,mongodb,express&theme=light)](https://skills.thijs.gg) 
-
